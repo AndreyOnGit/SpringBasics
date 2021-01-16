@@ -1,0 +1,8 @@
+.div_filter{
+    display: flex;
+    justify-content: center;
+}
+
+.div_filter_item{
+    margin: 10px;
+}
